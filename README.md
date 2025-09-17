@@ -129,7 +129,7 @@ The automated launcher handles everything:
 
 ## 🎯 Model Performance
 
-Our ensemble approach achieves industry-leading accuracy:
+Our Advanced Model approach achieves industry-leading accuracy:
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
@@ -259,9 +259,7 @@ gcloud projects add-iam-policy-binding YOUR_PROJECT_ID \
 ```
 
 ### **Cost Estimation**
-- **Basic Usage**: $20-30/month
-- **Production Scale**: $100-200/month
-- **Enterprise Level**: $500+/month
+- **Basic Usage**: yet to be estimated
 - **Free Tier**: Available for development
 
 ## 📊 Kaggle Dataset Integration
@@ -389,8 +387,6 @@ streamlit run app.py
 
 ## 📄 License & Credits
 
-### **License**
-This project is licensed for educational and research use. Commercial use requires separate licensing agreement.
 
 ### **Acknowledgments**
 - **Google Cloud Platform**: AI infrastructure and services
@@ -413,6 +409,7 @@ If you use TruthGuard AI in academic research, please cite:
 ```
 
 ## 📞 Support & Contact
+- Licensing and Development inquiries: parthavsinh@gmail.com
 
 ### **Getting Help**
 - 📖 **Documentation**: Comprehensive guides and tutorials
@@ -421,10 +418,7 @@ If you use TruthGuard AI in academic research, please cite:
 - 📧 **Email Support**: Technical assistance for integration
 
 ### **Community**
-- 🌐 **Website**: [truthguard-ai.org](https://truthguard-ai.org)
-- 🐦 **Twitter**: [@TruthGuardAI](https://twitter.com/truthguardai)
-- 💼 **LinkedIn**: [TruthGuard AI](https://linkedin.com/company/truthguard-ai)
-- 📺 **YouTube**: [Demo Videos](https://youtube.com/c/truthguardai)
+- 🌐 **Website**: [Truth_Guard-ai](https://truthguard-ai.streamlit.app/)
 
 ## 📈 Roadmap
 
